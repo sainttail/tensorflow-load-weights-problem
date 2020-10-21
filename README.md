@@ -6,6 +6,11 @@ There are 2 type of datasets in this repo
 
 `main.py` is the main script to run training/evaluating
 
+I test this repo on both Window and Mac
+
+- Window -> Python 3.7.4
+- Mac -> Python 3.8.5
+
 ## Install
 Run `pip install -r requirements.txt`
 
