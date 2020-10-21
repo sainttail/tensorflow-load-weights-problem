@@ -6,7 +6,7 @@ There are 2 types of dataset in this repo
 
 `main.py` is the main script to run training/evaluating
 
-I test this repo on both Window and Mac
+I test this repo on both Window and Mac, both have machine can reproduce the problem.
 
 - Window -> Python 3.7.4
 - Mac -> Python 3.8.5
