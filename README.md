@@ -14,7 +14,9 @@ Start with `main(population_type=constants.POPULATION_CMC, is_train=True)` wait 
 
 Then run the again with `main(population_type=constants.POPULATION_CMC, is_train=False)`. 
 
-The output `loss` and `accuracy` of both will be different, but if we repeat the process with **Abalone** dataset
+The output `loss` and `accuracy` of both will be different and repeat evaluate **Cmc** dataset will produce different result each times.
+
+However, if we repeat the process with **Abalone** dataset
 the problem will not occur.
 
 
