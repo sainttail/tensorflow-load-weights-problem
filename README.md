@@ -1,7 +1,7 @@
 This repo simulate problem when try using tensorflow keras save/load weights.
 
-There are 2 type of datasets in this repo
-1. **Abalone** dataset (`constants.POPULATION_ABALONE`) - load weight for fine for this dataset
+There are 2 types of dataset in this repo
+1. **Abalone** dataset (`constants.POPULATION_ABALONE`) - load weight is fine for this dataset
 2. **Cmc** dataset (`constants.POPULATION_CMC`) - this has problem with load weight
 
 `main.py` is the main script to run training/evaluating
