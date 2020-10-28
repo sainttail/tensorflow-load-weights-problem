@@ -17,7 +17,7 @@ Run `pip install -r requirements.txt`
 ## Reproduce
 Start with `main(population_type=constants.POPULATION_CMC, is_train=True)` wait until finished. 
 
-Then run the again with `main(population_type=constants.POPULATION_CMC, is_train=False)`. 
+Then run the script again with `main(population_type=constants.POPULATION_CMC, is_train=False)` on a different python session. 
 
 The output `loss` and `accuracy` of both will be different and repeat evaluate **Cmc** dataset will produce different result each times.
 
